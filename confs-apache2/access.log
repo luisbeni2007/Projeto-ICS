@@ -1,9 +1,25 @@
-[21/Jan/2026:14:42:28 -0300] "GET / HTTP/1.1" 200 3383 "-" "Links (2.29; Linux 6.12.63+deb13-amd64 x86_64: GNU C 14.2: text)"
-[21/Jan/2026:14:55:31-0300] "GET /minha_pagina/hello_world.html HTTP/1.1" 200 436 "-" "Links (2.29; Linux 6.12.63+deb13-amd64 x86_64; GNU C 14.2: text /2026:18:10:54 -0300] "GET /info.php HTTP/1.1" 200 22340 "." "Links (2.29: Linux 6.12.63+deb13-amd64 x86_64: GNU C 14.2: text)"
-[21/Jan [21/
-Jan/2026:18:15:22 -0300] "GET /tabela.php HTTP/1.1" 200 396 "-" "Links (2.29: Linux 6.12.63+deb13-amd64 x86_64; GNU C 14.2: text)"
-[ 21/Jan/2026:18:23:33-0300] "GET /tabela.php HTTP/1.1" 200 396 "-" "Links (2.29: Linux 6.12.63+deb13-amd64 x86-64; GNU C 14.2; text)"
+192.168.100.100
 [22
-/Jan/2026:17:26:10-0300] "GET /conexao.php HTTP/1.1" 200 203 "-" "Links (2.29: Linux 6.12.63+deb13-amd64 x86_64; GNU C 14.2; text)"
-[22
-/Jan/2026:17:33:45-0300] "GET /consulta.php HTTP/1.1" 200 327 "-" "Links (2.29; Linux 6.12.63+deb13-amd64 x86_64; GNU C 14.2; text)"
+/Jan/2026:18:16:31-0300] "GET / HTTP/1.1" 200 615 "" "Mozilla/5.0 (X11: Linux x86_64; rv:140.8) Gecko/20100101 Firefox/140.0
+192.168.100.100
+[22/Jan
+/2026:18:16:31-0900] "GET /icons/blank.gif HTTP/1.1" 200 431 "http://lojaprojeto.backend.biz/" "Mozilla/5.0 (X11: Linux x86_64; rv:
+192.168.100.100
+[22/Jan
+/2026:18:16:31-0500] "GET /favicon.ico HTTP/1.1" 404 541 "http://lojaprojeto.backend.biz/" "Mozilla/5.0 (X11: Linux x86-64; rv:140. /2026:09:51:41 -8300] "GET / HTTP/1.1" 200 719 "-" "Mozilla/5.0 (X11; Linux x86_64: rv:140.0) Gecko/20100101 Firefox/140.8"
+[29/Jan
+192.168.100.30
+192.168.100.30
+[23/Jan
+[23/Jan /2026:09:51:41 -0300] "GET /icons/unknown.gif HTTP/1.1" 200 528 "http://jojaprojeto.backend.biz/" "Mozilla/5.0 (X11; Linux x86_64: rv
+192.168.100.30
+[23/Jan/
+/2026:09:51:48 -03001 "GET /cadastrar.php HTTP/1.1" 1" 404 542 "-" "Kozilla/5.0 (X11: Linux x86 64: rv:140.0) Gecko/20100101 Firefox/140
+192.168.100.30
+[23/Jan/2026
+2026:09:58:58-8300] "GET /index.php HTTP/1.1" 404 542 "http://lojaprojeto.com.br/" "Mozilla/5.0 (X11) Linux x86_64: rv:140.0) Gecko
+192.168.100.30
+access.log
+:09:58:56 0300] "GET / HTTP/1.1" 200 719 "" "Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/140.8" [23/Jan/2026:10:05:14 -0300] "GET / HTTP/1.1" 200 382 "-" "Mozilla/5.0 (X11: Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140,0"
+192.168.100.88
+[23/Jan/2026:10:05:16 -0300] "GET /index.php HTTP/1.1" 200 381 "http://lojaprojeto.com.br/" "Mozilla/5.0 (X111 Linux x86_64: rv:140.0) Gecko
