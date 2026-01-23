@@ -1,0 +1,6 @@
+<VirtualHost *:80>
+  ServerName lojaprojeto.backend.biz
+  DocumentRoot /var/www/html/lojaprojeto_backend
+  ErrorLog ${APACHE_LOG_DIR}/lojaprojeto_backend/error.log
+  CustomLog ${APACHE_LOG_DIR}/lojaprojeto_backend/access.log combined
+</VirtualHost>
