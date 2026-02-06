@@ -12,6 +12,9 @@ $query_cat = mysqli_query($conexao, "SELECT id, nome FROM Categoria");
         preco: <br>
         <input type="text" name="preco" required> <br><br>
 
+        Descricao: <br>
+        <input type="text" name="descricao"><br><br>
+
         Categoria: <br>
         <select name="id_categoria" required>
             <option value="">Selecione uma categoria</option>
